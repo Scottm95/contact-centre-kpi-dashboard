@@ -45,7 +45,7 @@ Prep and validation checks are listed in `data_quality.md`.
 
 
 ## Screenshots
-![Dashboard](ContactCentreDashboard.png)
+[ContactCentreDashboard.png](https://github.com/Scottm95/contact-centre-kpi-dashboard/blob/main/ContactCentreDashboard.PNG)
 
 
 
@@ -55,6 +55,7 @@ Prep and validation checks are listed in `data_quality.md`.
 - `sql_code.md` – SQL used for KPI calculations and distributions
 - `metrics.md` – KPI definitions (dictionary)
 - `data_quality.md` – cleaning/validation notes
+
 
 
 
